@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{996B1396-2C3F-4545-9D25-87F862767AFC}</ProjectGuid>
-    <RootNamespace>AttributeParser</RootNamespace>
+    <ProjectGuid>{91B4DECC-E60E-4054-9FB2-0563042076C8}</ProjectGuid>
+    <RootNamespace>WaysToDecode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MySolution.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="WaysToDecode.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

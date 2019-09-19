@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{996B1396-2C3F-4545-9D25-87F862767AFC}</ProjectGuid>
-    <RootNamespace>AttributeParser</RootNamespace>
+    <ProjectGuid>{CB38E309-A0BC-4F9D-87FB-38349E6D1215}</ProjectGuid>
+    <RootNamespace>MergeLists</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MySolution.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="MergeLists.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
